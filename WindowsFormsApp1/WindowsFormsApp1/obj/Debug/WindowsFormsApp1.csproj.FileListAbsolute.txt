@@ -1,0 +1,10 @@
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\csDotNetDevelopment\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
