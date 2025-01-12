@@ -1,0 +1,14 @@
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net8.0\MyFirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net8.0\MyFirstConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net8.0\MyFirstConsoleApplication.AssemblyInfo.cs
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net8.0\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net8.0\MyFirstConsoleApplication.exe
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net8.0\MyFirstConsoleApplication.deps.json
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net8.0\MyFirstConsoleApplication.runtimeconfig.json
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net8.0\MyFirstConsoleApplication.dll
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\net8.0\MyFirstConsoleApplication.pdb
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net8.0\MyFirstConsoleApplication.dll
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net8.0\refint\MyFirstConsoleApplication.dll
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net8.0\MyFirstConsoleApplication.pdb
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net8.0\MyFirstConsoleApplication.genruntimeconfig.cache
+C:\Users\zachm\Documents\BYU-I\current_fall_2024\.netDevelopment\w01\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\net8.0\ref\MyFirstConsoleApplication.dll
